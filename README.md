@@ -1,11 +1,11 @@
 # Traffic-Lights-Detector-Project
-## Abstract :
+## Objective :
 This system detects the traffic lights with TensorFlow object detection API, and then uses image 
 processing techniques to classify the state of the traffic lights. If the traffic lights are “RED” or 
 “YELLOW”, then it will show command “STOP” and if the traffic lights are”RED”, then it will 
 show the command “GO”.
 
-## 1. Objective :
+## 1. Abstract :
 The goal of this project is to detect signal light boards in the various backgrounds through color 
 segmentation and cascade filtering methods,extract and identify signal indication areas based on 
 their relative position, luminance, and shape information execute signal indication status 
